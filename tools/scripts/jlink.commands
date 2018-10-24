@@ -1,3 +1,4 @@
+export ARMGCC_DIR=/usr
 exec EnableRemarks
 unlock kinetis
 loadfile <full-path-to-warp-firmware>/build/ksdk1.1/work/demos/Warp/armgcc/Warp/release/Warp.srec
